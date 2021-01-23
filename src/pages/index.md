@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Invest in your employees awareness.
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: 'In most security systems, the human factor is the #1 weak chain.'
     actions:
       - label: Learn More
         url: /features
